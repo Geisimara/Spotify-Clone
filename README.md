@@ -1,2 +1,2 @@
 # Spotify-Clone
-Modelo de Site do Spotify usanso Bootstrap3 
+Modelo de Site do Spotify usando Bootstrap3
